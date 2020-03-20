@@ -1,0 +1,13 @@
+title: Home Services App
+author: Tanaaz Jasani (lead UI) other contributors: Marque Simmons (lead UX)
+overview: Defining the UX strategy of a home services marketplace where individuals can contract professionals for home repairs. 
+link: #add full url#
+principles:
+- principle: Usefulness creates empowerment
+  summary: Design decisions should be rooted in helping people solve their problems consistently and providing them confidence in those solutions. 
+  
+- principle: Design for the context of the users, not the app
+  summary: Consider the full user's experience and not stay focused on just the screen.
+  
+  - principle: Converge on simplicity and satisfaction
+  summary: Design features should be reduced to its most simple components without weakening satisfaction. 
